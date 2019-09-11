@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHubUseres</string>
+    <string name="errorList">An error occurred while loading Data</string>
+    <string name="user_s_name">User\'s name</string>
+    <string name="repos">Number of Repositories</string>
+</resources>
